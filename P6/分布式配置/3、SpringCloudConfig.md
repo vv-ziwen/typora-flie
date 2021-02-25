@@ -1,0 +1,11 @@
+什么是配置中心及应用场景
+
+SPRINGCLOUD CONFIG + GITHUB 单机搭建
+
+SPRINGCLOUD CONFIG 配置命名规则
+
+SPRINGCLOUD CONFIG + GITHUB 分支读取
+
+微服务整合 SPRINGCLOUD CONFIG 加载远程配置
+
+SPRINGCLOUD CONFIG 微服务手动刷新与自动刷新配置

@@ -1,0 +1,9 @@
+CONSUL KEY/VALUE存储机制
+
+CONSUL 安全服务通信
+
+健康检查机制
+
+SPRINGCLOUD 整合CONSUL
+
+CONSUL RAFT算法与高可用集群
